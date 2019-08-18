@@ -1,0 +1,12 @@
+## 行为型模式(11)：关注系统中对象之间的相互交互，研究系统在运行时对象间的相互通信和协作，进一步明确类和对象的职责。
+1. 责任链(chain of responsibility)
+2. *命令模式(commend)
+3. *解释器模式(interpreter)
+4. 迭代器模式(iterator)
+5. 中介者模式(mediator)
+6. 备忘录模式(memento)
+7. 观察者模式(observer)
+8. 状态模式(state)
+9. 策略模式(strategy)
+10. 模板方法模式(template method)
+11. *访问者模式(visitor)
